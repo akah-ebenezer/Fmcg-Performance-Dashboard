@@ -43,7 +43,7 @@ revenue and profit over time.
 ## Dashboard Preview
 
 
-![Dashboard Preview](Excel FMCG Dashboard Preview.png)
+![Dashboard Preview](Excel_FMCG_Dashboard_Preview.png)
 
 
 
